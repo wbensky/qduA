@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="release">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/qduA/app/build/pre-dexed/release/android-async-http-1.4.4-5663b8c0dadbd6fd92db9fe3d1580455ff1191f9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/qduA/app/build/pre-dexed/release/classes-bf224bbaf7f79f7dc4bc415041cd0a0c64b2d692.jar!/" />
+      <root url="jar://$PROJECT_DIR$/qduA/app/build/pre-dexed/release/support-v4-19.0.1-3bf117e59e2e0f41bbf9219f2be90cdcf1dd583d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

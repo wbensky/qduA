@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/qduA/app/src/main/java/libs/ormlite-core-4.48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/qduA/app/src/main/java/libs/ormlite-android-4.48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/qduA/app/src/main/java/libs/android-async-http-1.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

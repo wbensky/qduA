@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/qduA/app/build/pre-dexed/debug/ormlite-android-4.48-7ac99b13b2ba53e8c35fb5b56d63825a5981fa3d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/qduA/app/build/pre-dexed/debug/android-async-http-1.4.4-5663b8c0dadbd6fd92db9fe3d1580455ff1191f9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/qduA/app/build/pre-dexed/debug/ormlite-core-4.48-a386a05e6dae6b62210d0ba49482874f94c6482e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/qduA/app/build/pre-dexed/debug/classes-bf224bbaf7f79f7dc4bc415041cd0a0c64b2d692.jar!/" />
+      <root url="jar://$PROJECT_DIR$/qduA/app/build/pre-dexed/debug/support-v4-19.0.1-3bf117e59e2e0f41bbf9219f2be90cdcf1dd583d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
